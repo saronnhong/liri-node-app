@@ -19,10 +19,16 @@ function callSpotify(spotCallQuery) {
 
                 for (var i = 0; i < response.tracks.items.length; i++) {
                     console.log("Artist: " + response.tracks.items[i].album.artists[0].name);
+                    appendFunc("Artist: " + response.tracks.items[i].album.artists[0].name);
+
                     console.log("Song name: " + response.tracks.items[i].name);
+                    appendFunc("Song name: " + response.tracks.items[i].name);
+
                     console.log("Preview URL: " + response.tracks.items[i].preview_url);
-                    console.log("Album name: " + response.tracks.items[i].album.name);
-                    console.log(" ");
+                    appendFunc("Preview URL: " + response.tracks.items[i].preview_url);
+                    console.log("Album name: " + response.tracks.items[i].album.name + "\n");
+                    appendFunc("Album name: " + response.tracks.items[i].album.name + "\n");
+                    
                 }
             }
             else {
@@ -43,20 +49,28 @@ function callImdbSearch(movieNameSearch) {
         .get(imdbQueryUrl)
         .then(function (response) {
             if (movieNameSearch === undefined) {
-                console.log("no input");
+                //console.log("no input");
                 movieNameSearch = 1;
                 callImdbSearch("Mr. Nobody");
             }
             else {
                 console.log("Title: " + response.data.Title);
+                appendFunc("Title: " + response.data.Title);
                 console.log("Year: " + response.data.Year);
+                appendFunc("Year: " + response.data.Year);
                 console.log("IMDB Rating: " + response.data.imdbRating);
+                appendFunc("IMDB Rating: " + response.data.imdbRating);
                 console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
+                appendFunc("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
                 console.log("Country: " + response.data.Country);
+                appendFunc("Country: " + response.data.Country);
                 console.log("Language: " + response.data.Language);
+                appendFunc("Language: " + response.data.Language);
                 console.log("Plot: " + response.data.Plot);
-                console.log("Actors: " + response.data.Actors);
-                console.log(" ");
+                appendFunc("Plot: " + response.data.Plot);
+                console.log("Actors: " + response.data.Actors + "\n");
+                appendFunc("Actors: " + response.data.Actors + "\n");
+               
             }
 
         })
@@ -69,28 +83,42 @@ function callConcertSearch(artistSearch) {
         .then(function (response) {
             for (var i = 0; i < response.data.length; i++) {
                 console.log("Venue: " + response.data[i].venue.name);
+                appendFunc("Venue: " + response.data[i].venue.name);
                 console.log("Location: " + response.data[i].venue.city + ", " + response.data[i].venue.country);
-                console.log("Date/Time: " + moment(response.data[i].datetime, "YYYY-MM-DDTHH:mm:ss").format("L"));
-                console.log(" ");
+                appendFunc("Location: " + response.data[i].venue.city + ", " + response.data[i].venue.country);
+                console.log("Date: " + moment(response.data[i].datetime, "YYYY-MM-DDTHH:mm:ss").format("L") + "\n");
+                appendFunc("Date: " + moment(response.data[i].datetime, "YYYY-MM-DDTHH:mm:ss").format("L") + "\n");
+                
             }
         });
+}
+function appendFunc(textToAppend){
+    fs.appendFile("log.txt", textToAppend + "\n", function(error){
+        if(error){
+            console.log(error);
+        }
+        else {
+           // console.log("text appended!");
+        }
+    })
 }
 
 
 if (firstArg === "concert-this") {
-    var artist = process.argv[3];
+    var artist = process.argv.slice(3).join(" ");
+    console.log(artist);
     callConcertSearch(artist);
 
 
 } else if (firstArg === "spotify-this-song") {
 
-    var spotQuery = process.argv[3];
+    var spotQuery = process.argv.slice(3).join(" ");
     callSpotify(spotQuery);
 
     // Client ID e3083f86ff4b4021af54da8ccdf4134a
     // Client Secret 0285f828935e47c9950111fa3447ad4d
 } else if (firstArg === "movie-this") {
-    var movieName = process.argv[3];
+    var movieName = process.argv.slice(3).join(" ");
     callImdbSearch(movieName);
 } else if (firstArg === "do-what-it-says") {
     fs.readFile("random.txt", "utf8", function (error, data) {
@@ -98,7 +126,7 @@ if (firstArg === "concert-this") {
             return console.log(error);
         }
         var dataArray = data.split(",");
-        //console.log(dataArray);
+        console.log(dataArray);
 
         for (var i = 0; i < dataArray.length; i++) {
             console.log(dataArray[i]);
