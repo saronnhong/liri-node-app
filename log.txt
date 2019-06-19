@@ -1,102 +1,167 @@
-Artist: Travis Scott
-Song name: SICKO MODE
-Preview URL: https://p.scdn.co/mp3-preview/1c3c01c64477b356e28a652b6447f4ef96689a71?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: ASTROWORLD
+Venue: Northern Lights Festival
+Location: Sudbury, Canada
+Date: 07/05/2019
 
-Artist: Travis Scott
-Song name: SICKO MODE - Skrillex Remix
-Preview URL: https://p.scdn.co/mp3-preview/0d98be4f46397a308cbddd080eb98d93dadb4ee3?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: SICKO MODE (Skrillex Remix)
+Venue: Winnipeg Folk Festival
+Location: Winnipeg, Canada
+Date: 07/12/2019
 
-Artist: DJ Boomin
-Song name: SICKO MODE - Instrumental
-Preview URL: https://p.scdn.co/mp3-preview/926937a5de4bb02eba421be2ec16622a6a17cbf0?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: SICKO MODE
+Venue: Ottowa Bluesfest
+Location: Ottawa, Canada
+Date: 07/13/2019
 
-Artist: Cody Ray
-Song name: Sicko Mode Freestyle
-Preview URL: https://p.scdn.co/mp3-preview/a6ba6b4d04cdf1410c4e5c24c6217b4cab6a6a8a?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode Freestyle
+Venue: Interstellar Rodeo - Heritage Amphitheatre
+Location: Edmonton, Canada
+Date: 07/27/2019
 
-Artist: Lady XO
-Song name: Sicko Mode Freestyle
-Preview URL: https://p.scdn.co/mp3-preview/021321ff8fe2d1461252dfe0631a62ff4a715b77?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode Freestyle
+Artist: Ace of Base
+Song name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Tyler Ward
-Song name: Sicko Mode - Piano Acoustic
-Preview URL: https://p.scdn.co/mp3-preview/9ecf28d43e26d3e033c105ff7dfc9bec2491e953?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: he said. she said.
+Artist: Ace of Base
+Song name: All That She Wants
+Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Andrew Foy
-Song name: SICKO MODE
-Preview URL: https://p.scdn.co/mp3-preview/292cafba7b6a6f3e244c00a3e7637449f8798b8c?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: SICKO MODE
+Artist: Ace of Base
+Song name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Greatest Hits
 
-Artist: COSMIC
-Song name: SICKO MODE X 10
-Preview URL: https://p.scdn.co/mp3-preview/dc83da203f4b5f793f2095f66f2558483bec7c71?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: SICKO MODE X 10
+Artist: Ace of Base
+Song name: Don't Turn Around
+Preview URL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Overspace
-Song name: Sicko Mode - Radio Edit
-Preview URL: https://p.scdn.co/mp3-preview/3c3116b05a657134f65c717d41e6440dc121fd75?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode
+Artist: Ace of Base
+Song name: Wheel of Fortune
+Preview URL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Cardo Grandz
-Song name: Sicko Mode - Instrumental
-Preview URL: https://p.scdn.co/mp3-preview/552b9857c970d53ae31c64316da620a5472a2a0d?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: The Remake
+Artist: Ace of Base
+Song name: Happy Nation
+Preview URL: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Trapp Tarell
-Song name: Sicko Mode
-Preview URL: https://p.scdn.co/mp3-preview/7289468cbca8dc50eecb951998d42cebd61b22d3?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode
+Artist: Ace of Base
+Song name: Living in Danger
+Preview URL: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Alexandra DeMattia
-Song name: Sicko Mode
-Preview URL: https://p.scdn.co/mp3-preview/279efeeb959a5090545ab84448657de7091cf3b1?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Covers
+Artist: Ace of Base
+Song name: Dancer in a Daydream
+Preview URL: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: ChillHop Addiction
-Song name: Sicko Mode
-Preview URL: https://p.scdn.co/mp3-preview/f72373f9fed1df61a6f445ab6a7fafb8035109e4?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Skyline
+Artist: Ace of Base
+Song name: Young and Proud
+Preview URL: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: DJ Tray
-Song name: Sicko Mode Deep
-Preview URL: https://p.scdn.co/mp3-preview/2e165b64462bc3a6149eae8257938345b1e04e97?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode Deep
+Artist: Ace of Base
+Song name: Waiting for Magic - Total Remix 7" Version
+Preview URL: https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Pollie Pop
-Song name: Sicko Mode #Screwed
-Preview URL: https://p.scdn.co/mp3-preview/6410d19cf7b7bcecb1c879c7be8136f81b73ae93?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: 28 Grams, Vol. 32 #Screwed
+Artist: Ace of Base
+Song name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Happy Nation (U.S. Version) [Remastered]
 
-Artist: Doughbeezy
-Song name: Sicko Mode (Freestyle)
-Preview URL: https://p.scdn.co/mp3-preview/d614eff95f1f33f6c29791d845f9ed1a627d4b2b?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode (Freestyle)
+Artist: Ace of Base
+Song name: Voulez-Vous danser
+Preview URL: https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Cardo Grandz
-Song name: Sicko Mode - Instrumental
-Preview URL: https://p.scdn.co/mp3-preview/552b9857c970d53ae31c64316da620a5472a2a0d?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode (Instrumental)
+Artist: Ace of Base
+Song name: My Mind - Mindless Mix
+Preview URL: https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Average Gypsy
-Song name: Sicko Mode
-Preview URL: https://p.scdn.co/mp3-preview/a5d08b2b09b36a7ab6f574059041b485152593fa?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Get Some Money Ep
+Artist: Ace of Base
+Song name: All That She Wants - Banghra Version
+Preview URL: https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Tyler Ward
-Song name: Sicko Mode - Piano Acoustic
-Preview URL: https://p.scdn.co/mp3-preview/9ecf28d43e26d3e033c105ff7dfc9bec2491e953?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode (Piano Acoustic)
+Artist: Ace of Base
+Song name: Mr Ace - Demo 1991 Bonus Track
+Preview URL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (US Album) [Remastered]
 
-Artist: Overspace
-Song name: Sicko Mode
-Preview URL: https://p.scdn.co/mp3-preview/17e5c04dbd7dd7dcad589b5a433f650cbe64f349?cid=e3083f86ff4b4021af54da8ccdf4134a
-Album name: Sicko Mode
+Artist: Ace of Base
+Song name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (The Remixes)
+
+Artist: Ace of Base
+Song name: The Sign - Long Version
+Preview URL: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (The Remixes)
+
+Artist: Ace of Base
+Song name: The Sign - Ultimix
+Preview URL: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (The Remixes)
+
+Artist: Ace of Base
+Song name: The Sign
+Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Sign (The Remixes)
+
+Artist: Ace of Base
+Song name: The Sign - The Remix
+Preview URL: https://p.scdn.co/mp3-preview/919c1e7e785733af13db8054540742ac6aede514?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Classic Remixes
+
+Artist: Travis Tritt
+Song name: Foolish Pride
+Preview URL: https://p.scdn.co/mp3-preview/f8c953250dab395fb6c84252bdb4ea9a3b9c644b?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Ten Feet Tall And Bulletproof
+
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl (Deluxe)
+
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl
+
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl (Deluxe)
+
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl
+
+Artist: Paralyze My Pride
+Song name: Bulletproof
+Preview URL: https://p.scdn.co/mp3-preview/ccffd8adf78259d854ba1b116856a9506eeceef5?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Paralyze My Pride
+
+Artist: San Fran AllStars
+Song name: Bulletproof
+Preview URL: https://p.scdn.co/mp3-preview/a03a784f7081bcf794d8c7225bacc829d5f0b2ef?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Gay Pride Party Music
+
+Artist: Ameritz Tribute Standards
+Song name: Foolish Pride
+Preview URL: https://p.scdn.co/mp3-preview/a639748322cd6adf65e3c093810e81396b721f1e?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Ten Feet Tall and Bulletproof (A Tribute to Travis Tritt)
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 Title: Spider-Man 2
 Year: 2004
@@ -107,260 +172,268 @@ Language: English, Russian, Chinese
 Plot: Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.
 Actors: Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina
 
-Title: Spider-Man 3
-Year: 2007
-IMDB Rating: 6.2
-Rotten Tomatoes Rating: 63%
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Hits--Chapter One
+
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Millennium
+
+Artist: Backstreet Boys
+Song name: I Want It That Way - Reimagined
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way (Reimagined)
+
+Artist: Jess and Gabriel
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Under the Covers, Vol. 3
+
+Artist: Tyler and Mark
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Beautiful Dreams
+
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Poodle Hat
+
+Artist: Punk Goes
+Song name: I Want It That Way
+Preview URL: null
+Album name: Punk Goes Pop
+
+Artist: Various Artists
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: 90 Sweet 90s Hits!
+
+Artist: Glee Cast
+Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Artist: Steel Panther
+Song name: I Want It That Way
+Preview URL: null
+Album name: I Want It That Way
+
+Artist: NKOTBSB
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: NKOTBSB
+
+Artist: Boyce Avenue
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Cover Sessions, Vol. 2
+
+Artist: Scary Pockets
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Nu Funk
+
+Artist: Love Hits On Piano
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Timeless Love
+
+Artist: Manuel Costa
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Yshop
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Anthem Lights
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Covers Part IV
+
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Essential "Weird Al" Yankovic
+
+Artist: Mick Jensen
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Scott Bradlee's Postmodern Jukebox
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Selfies on Kodachrome
+
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Hits--Chapter One
+
+Artist: Mick Jensen
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Jess and Gabriel
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Under the Covers, Vol. 3
+
+Artist: Tyler and Mark
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Beautiful Dreams
+
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Poodle Hat
+
+Artist: Punk Goes
+Song name: I Want It That Way
+Preview URL: null
+Album name: Punk Goes Pop
+
+Artist: Various Artists
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: 90 Sweet 90s Hits!
+
+Artist: Glee Cast
+Song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Artist: Steel Panther
+Song name: I Want It That Way
+Preview URL: null
+Album name: I Want It That Way
+
+Artist: NKOTBSB
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: NKOTBSB
+
+Artist: Boyce Avenue
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Cover Sessions, Vol. 2
+
+Artist: Scary Pockets
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Nu Funk
+
+Artist: Love Hits On Piano
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Timeless Love
+
+Artist: Manuel Costa
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Yshop
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way
+
+Artist: Scott Bradlee's Postmodern Jukebox
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Selfies on Kodachrome
+
+Artist: "Weird Al" Yankovic
+Song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview URL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: The Essential "Weird Al" Yankovic
+
+Artist: Backstreet Boys
+Song name: I Want It That Way - Reimagined
+Preview URL: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: I Want It That Way (Reimagined)
+
+Artist: Anthem Lights
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Covers Part IV
+
+Artist: Backstreet Boys
+Song name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Millennium
+
+Title: Spider-Man 2
+Year: 2004
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 93%
 Country: USA
-Language: English, French
-Plot: A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.
-Actors: Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church
+Language: English, Russian, Chinese
+Plot: Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.
+Actors: Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina
 
-Venue: Gila River Arena
-Location: Glendale, United States
-Date: 06/20/2019
+Artist: Travis Tritt
+Song name: Foolish Pride
+Preview URL: https://p.scdn.co/mp3-preview/f8c953250dab395fb6c84252bdb4ea9a3b9c644b?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Ten Feet Tall And Bulletproof
 
-Venue: MGM Grand Garden Arena
-Location: Las Vegas, United States
-Date: 06/22/2019
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl (Deluxe)
 
-Venue: Pechanga Arena San Diego
-Location: San Diego, United States
-Date: 06/23/2019
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl
 
-Venue: Staples Center
-Location: Los Angeles, United States
-Date: 06/25/2019
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl (Deluxe)
 
-Venue: Oracle Arena
-Location: Oakland, United States
-Date: 06/28/2019
+Artist: K'NAAN
+Song name: Bulletproof Pride
+Preview URL: null
+Album name: Country, God Or The Girl
 
-Venue: Staples Center
-Location: Los Angeles, United States
-Date: 06/26/2019
+Artist: Paralyze My Pride
+Song name: Bulletproof
+Preview URL: https://p.scdn.co/mp3-preview/ccffd8adf78259d854ba1b116856a9506eeceef5?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Paralyze My Pride
 
-Venue: Rogers Place
-Location: Edmonton, Canada
-Date: 07/04/2019
+Artist: San Fran AllStars
+Song name: Bulletproof
+Preview URL: https://p.scdn.co/mp3-preview/a03a784f7081bcf794d8c7225bacc829d5f0b2ef?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Gay Pride Party Music
 
-Venue: Moda Center
-Location: Portland, United States
-Date: 07/01/2019
+Artist: Ameritz Tribute Standards
+Song name: Foolish Pride
+Preview URL: https://p.scdn.co/mp3-preview/a639748322cd6adf65e3c093810e81396b721f1e?cid=e3083f86ff4b4021af54da8ccdf4134a
+Album name: Ten Feet Tall and Bulletproof (A Tribute to Travis Tritt)
 
-Venue: Pepsi Center
-Location: Denver, United States
+Venue: Northern Lights Festival
+Location: Sudbury, Canada
+Date: 07/05/2019
+
+Venue: Winnipeg Folk Festival
+Location: Winnipeg, Canada
 Date: 07/12/2019
 
-Venue: American Airlines Center
-Location: Dallas, United States
-Date: 07/14/2019
+Venue: Ottowa Bluesfest
+Location: Ottawa, Canada
+Date: 07/13/2019
 
-Venue: AT &T Center
-Location: San Antonio, United States
-Date: 07/16/2019
-
-Venue: Toyota Center
-Location: Houston, United States
-Date: 07/18/2019
-
-Venue: Chesapeake Energy Arena
-Location: Oklahoma City, United States
-Date: 07/19/2019
-
-Venue: Sprint Center
-Location: Kansas City, United States
-Date: 07/21/2019
-
-Venue: Xcel Energy Center
-Location: St Paul, United States
-Date: 07/23/2019
-
-Venue: United Center
-Location: Chicago, United States
-Date: 07/25/2019
-
-Venue: Nationwide Arena
-Location: Columbus, United States
-Date: 07/26/2019
-
-Venue: Little Caesars Arena
-Location: Detroit, United States
-Date: 07/28/2019
-
-Venue: PPG Paints Arena
-Location: Pittsburgh, United States
-Date: 07/29/2019
-
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 07/31/2019
-
-Venue: Madison Square Garden
-Location: New York, United States
-Date: 08/01/2019
-
-Venue: Capital One Arena
-Location: Washington, United States
-Date: 08/03/2019
-
-Venue: XL Center
-Location: Hartford, United States
-Date: 08/04/2019
-
-Venue: Scotiabank Arena
-Location: Toronto, Canada
-Date: 08/06/2019
-
-Venue: Scotiabank Arena
-Location: Toronto, Canada
-Date: 08/07/2019
-
-Venue: Bell Centre
-Location: Montreal, Canada
-Date: 08/08/2019
-
-Venue: TD Garden
-Location: Boston, United States
-Date: 08/10/2019
-
-Venue: Wells Fargo Center
-Location: Philadelphia, United States
-Date: 08/11/2019
-
-Venue: Spectrum Center
-Location: Charlotte, United States
-Date: 08/13/2019
-
-Venue: State Farm Arena
-Location: Atlanta, United States
-Date: 08/14/2019
-
-Venue: Amway Center
-Location: Orlando, United States
-Date: 08/16/2019
-
-Venue: American Airlines Arena
-Location: Miami, United States
-Date: 08/17/2019
-
-Venue: Barclaycard Arena Hamburg
-Location: Hamburg, Germany
-Date: 09/09/2019
-
-Venue: Hovet
-Location: Enskede-årsta-vantör, Sweden
-Date: 09/11/2019
-
-Venue: Oslo Spektrum
-Location: Grünerløkka, Norway
-Date: 09/13/2019
-
-Venue: Royal Arena
-Location: København S, Denmark
-Date: 09/14/2019
-
-Venue: The O2
-Location: London, United Kingdom
-Date: 09/17/2019
-
-Venue: The O2
-Location: London, United Kingdom
-Date: 09/18/2019
-
-Venue: SSE Hydro
-Location: Glasgow, United Kingdom
-Date: 09/20/2019
-
-Venue: Resorts World Arena
-Location: Birmingham, United Kingdom
-Date: 09/21/2019
-
-Venue: First Direct Arena
-Location: Leeds, United Kingdom
-Date: 09/22/2019
-
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 09/24/2019
-
-Venue: SSE Arena
-Location: Belfast, United Kingdom
-Date: 09/25/2019
-
-Venue: Jahrhunderthalle
-Location: Frankfurt Am Main, Germany
-Date: 09/28/2019
-
-Venue: Lotto Arena
-Location: Antwerpen, Belgium
-Date: 09/29/2019
-
-Venue: Ziggo Dome
-Location: Amsterdam, Netherlands
-Date: 10/01/2019
-
-Venue: König-Pilsener-ARENA
-Location: Oberhausen, Germany
-Date: 10/02/2019
-
-Venue: L'Olympia Bruno Coquatrix
-Location: Paris, France
-Date: 10/04/2019
-
-Venue: L'Olympia Bruno Coquatrix
-Location: Paris, France
-Date: 10/05/2019
-
-Venue: Rockhal
-Location: Esch-sur-alzette, Luxembourg
-Date: 10/06/2019
-
-Venue: Samsung Hall Zürich
-Location: Zürich, Switzerland
-Date: 10/08/2019
-
-Venue: Zenith - The Cultural Hall
-Location: München, Germany
-Date: 10/09/2019
-
-Venue: Spark Arena
-Location: Auckland, New Zealand
-Date: 11/20/2019
-
-Venue: Spark Arena
-Location: Auckland, New Zealand
-Date: 11/21/2019
-
-Venue: Brisbane Entertainment Centre
-Location: Boondall, Australia
-Date: 11/26/2019
-
-Venue: Rod Laver Arena
-Location: Melbourne, Australia
-Date: 11/28/2019
-
-Venue: Adelaide Entertainment Centre
-Location: Hindmarsh, Australia
-Date: 12/02/2019
-
-Venue: Qudos Bank Arena
-Location: Sydney Olympic Park, Australia
-Date: 12/04/2019
-
-Venue: Qudos Bank Arena
-Location: Sydney Olympic Park, Australia
-Date: 12/05/2019
-
-Venue: Golden 1 Center
-Location: Sacramento, United States
-Date: 06/29/2019
-
-Venue: Tacoma Dome
-Location: Tacoma, United States
-Date: 07/07/2019
-
-Venue: Spokane Arena
-Location: Spokane, United States
-Date: 07/09/2019
+Venue: Interstellar Rodeo - Heritage Amphitheatre
+Location: Edmonton, Canada
+Date: 07/27/2019
 
